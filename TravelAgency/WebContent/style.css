@@ -1,0 +1,113 @@
+@CHARSET "ISO-8859-1";
+
+#full
+{
+
+float: left;
+height: 480px;
+width: 100%;
+
+}
+#header {
+color:#808000;
+float: left;
+height: 80px;
+width: 100%;
+}
+#subheader {
+background-color:	#85AD33;
+float: left;
+height: 40px;
+width: 100%;
+font-family: sans-serif;
+}
+#subheaderadmin
+{
+	font-family: sans-serif;
+	color: white;
+}
+#body {
+float: left;
+height: 450px;
+width: 100%;
+}
+#bleft {
+
+float: left;
+height: 450px;
+width: 60%;
+}
+#bright {
+
+float: left;
+height: 450px;
+width: 40%;
+}
+
+
+#bodyleft {
+
+float: left;
+height: 450px;
+width: 23%;
+color: 	#293D00;
+}
+#bodyright {
+
+float: left;
+height: 450px;
+width: 77%;
+}
+
+
+#footer {
+background-color:#686868 ;
+float: left;
+height: 40px;
+width: 100%;
+font-family: sans-serif;
+color: white;
+}
+
+#login
+{
+	font-family: sans-serif;
+	font-size: 14px;
+}
+#logintable
+{
+	background-color: #D0D0D0 ;
+	-moz-border-radius:6px;
+-webkit-border-radius:6px;
+border-radius:6px;
+}
+
+
+
+#loginform
+{
+	box-shadow: 0px 0px 0px 4px #989898 ;
+margin: 0 auto;
+color: #180000 ;
+border: 1px solid #180000 ;
+background-color:#FFFFFF ;
+width: 300px;
+-moz-border-radius:4px;
+-webkit-border-radius:4px;
+border-radius:4px;
+	
+}
+
+
+
+
+is
+{
+	background: linear-gradient(red, blue); 
+}
+
+
+#viewdriver
+{
+	
+}

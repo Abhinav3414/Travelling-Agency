@@ -1,0 +1,98 @@
+@CHARSET "ISO-8859-1";
+
+
+form
+{
+	box-shadow: 0px 0px 0px 4px #989898 ;
+margin: 0 auto;
+color: #180000 ;
+border: 1px solid #180000 ;
+background-color:#FFFFFF ;
+width: 370px;
+-moz-border-radius:4px;
+-webkit-border-radius:4px;
+border-radius:4px;
+
+}
+
+#date
+{
+box-shadow: 0px 0px 0px 4px #f2f5f7;
+width: 58px;
+height: 28px;
+border-radius:4px;
+padding: 0 10px 0 10px;
+margin: 0 auto;
+color: #787878;
+border: 1px solid #bec2c4;
+}
+
+
+#valid
+{
+box-shadow: 0px 0px 0px 4px #f2f5f7;
+width: 98px;
+height: 28px;
+border-radius:4px;
+padding: 0 10px 0 10px;
+margin: 0 auto;
+color: #787878;
+border: 1px solid #bec2c4;
+}
+
+#datemonth
+{
+box-shadow: 0px 0px 0px 4px #f2f5f7;
+width: 72px;
+height: 28px;
+border-radius:4px;
+padding: 0 10px 0 10px;
+margin: 0 auto;
+color: #787878;
+border: 1px solid #bec2c4;
+}
+
+#dateyear
+{
+box-shadow: 0px 0px 0px 4px #f2f5f7;
+width: 41px;
+height: 28px;
+border-radius:4px;
+padding: 0 10px 0 10px;
+margin: 0 auto;
+color: #787878;
+border: 1px solid #bec2c4;
+}
+
+select{
+box-shadow: 0px 0px 0px 4px #f2f5f7;
+width: 202px;
+height: 28px;
+border-radius:4px;
+padding: 0 10px 0 10px;
+margin: 0 auto;
+color: #787878;
+border: 1px solid #bec2c4;
+}
+
+input[type="text"], input[type="password"]{
+box-shadow: 0px 0px 0px 4px #f2f5f7;
+width: 180px;
+height: 28px;
+border-radius:4px;
+padding: 0 10px 0 10px;
+margin: 0 auto;
+color: #787878;
+border: 1px solid #bec2c4;
+}
+input[type="submit"]{
+box-shadow: 0px 0px 0px 1px #CC3333;
+width: 120px;
+height: 28px;
+border-radius:4px;
+padding: 0 10px 0 10px;
+margin: 0 auto;
+color: #ffffff;
+border: 1px solid #bec2c4;
+background-color: #993300;
+}
