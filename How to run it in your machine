@@ -1,0 +1,12 @@
+Have Apache Tomcat V7
+install derby 10.1
+Go in cmd -> type startNetworkServer  ( derby should be started).
+Open Eclipse Luna.
+GO in import, choose git --> provide clone URL.
+Open project in eclipse.
+Add a new server ( tomcat v7.0).
+Make a new database connection from data source explorer choosing derby 10.1 option and locating derbyclient.jar jar file.
+Run the queries in db.sql file to run initial queries for the site.
+
+Thanks
+Abhinav
